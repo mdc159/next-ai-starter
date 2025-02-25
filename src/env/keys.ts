@@ -1,0 +1,10 @@
+export const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY || "";
+export const OPENAI_API_KEY = process.env.OPENAI_API_KEY || "";
+export const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || "";
+export const GROQ_API_KEY = process.env.GROQ_API_KEY || "";
+export const SUPABASE_API_KEY = process.env.SUPABASE_API_KEY || "";
+export const DATABASE_URL = process.env.DATABASE_URL || "";
+export const SUPABASE_DIRECT_URL = process.env.SUPABASE_DIRECT_URL || "";
+export const PERPLEXITY_API_KEY = process.env.PERPLEXITY_API_KEY || "";
+export const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY || "";
+export const TAVILY_API_KEY = process.env.TAVILY_API_KEY || ""; 
